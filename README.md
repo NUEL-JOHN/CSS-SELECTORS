@@ -1,2 +1,2 @@
 # CSS-SELECTORS
-CLASS(.), ID(#), GENERAL(*)
+CLASS(.), ID(#), UNIVERSAL(*)
